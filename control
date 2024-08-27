@@ -1,0 +1,9 @@
+Package: com.levelt3jg.redditsideloadfix
+Name: RedditSideloadFix
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Reddit Sideload Crash Fix!
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
